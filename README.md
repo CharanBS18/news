@@ -1,1 +1,1 @@
-Testing co-author
+Testing Co-author
